@@ -1,0 +1,11 @@
+{
+  "compilerOptions":{
+    "target" : "ESNext",
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "strict": true, // 타입 검사를 엄격하게 설정
+    "moduleDetection" : "force"
+  },
+  "include": ["src"]
+}
